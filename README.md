@@ -28,17 +28,8 @@ See deployment for notes on how to deploy the project on a live system.
 
 ### Running the tests
 
-// TODO
-Explain how to run the automated tests for this system
+* From the top menu bar, under the `Test` tab, select the test to inspect. Or `Ctrl + R, A` to run all tests.
 
-
-### Built With
-
-// TODO
-
-### Contributing
-
-// TODO
 
 ### Author
 
