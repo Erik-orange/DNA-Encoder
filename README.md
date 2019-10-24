@@ -5,20 +5,22 @@ For our purposes, these characters (in order) are: A, T, G, and C. We would like
 
 ## Getting Started
 
-// TODO
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
+
 See deployment for notes on how to deploy the project on a live system.
+
+* Clone this repo to your local machine using `https://github.com/Erik-orange/DNA-Encoder.git`.
+
 
 ### Prerequisites
 
-* [.NET Framework 4.6.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net461) - 
+* [.NET Framework 4.6.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net461)
 * [Visual Studio 2017 Community Edition](https://visualstudio.microsoft.com/vs/older-downloads/)
 
-### Running The Program
+### Deployment
 
 Open Visual Studio and build the solution.
 Click the `Start` button with the green arrow.
-
 
 
 ## Running the tests
