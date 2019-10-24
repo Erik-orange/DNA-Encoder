@@ -10,7 +10,7 @@ See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-* .NET Framework 4.6.1 Runtime
+* [.NET Framework 4.6.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net461)
 * Visual Studio 2017 Community Edition
 
 ### Running The Program
