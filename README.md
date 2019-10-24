@@ -19,33 +19,31 @@ See deployment for notes on how to deploy the project on a live system.
 
 ### Deployment
 
-Open Visual Studio and build the solution.
-Click the `Start` button with the green arrow.
+- Launch Visual Studio.
+
+- Build the solution `Ctrl + Shift + B`.
+
+- Run the code with Debugging `F5`
 
 
-## Running the tests
+### Running the tests
 
 // TODO
 Explain how to run the automated tests for this system
 
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
+### Built With
 
 // TODO
 
-## Contributing
+### Contributing
 
 // TODO
 
-## Author
+### Author
 
 * **Erik Carrillo** 
 
+### License
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
