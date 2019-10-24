@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNAexercise", "DNAexercise\DNAexercise.csproj", "{9DA9C31D-0AC1-4278-BFE9-5259E707C0D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DNAexercise.Tests", "DNAexercise.Tests\DNAexercise.Tests.csproj", "{362289B9-D50D-4250-A78D-F0625F38639E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9DA9C31D-0AC1-4278-BFE9-5259E707C0D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DA9C31D-0AC1-4278-BFE9-5259E707C0D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DA9C31D-0AC1-4278-BFE9-5259E707C0D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{362289B9-D50D-4250-A78D-F0625F38639E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{362289B9-D50D-4250-A78D-F0625F38639E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{362289B9-D50D-4250-A78D-F0625F38639E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{362289B9-D50D-4250-A78D-F0625F38639E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
