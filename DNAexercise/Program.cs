@@ -105,14 +105,6 @@ namespace DNAexercise
             Console.WriteLine($"RNA Encoding:  {rnaSequence}");
         }
 
-        /*
-        public static int FindDnaSubstr(byte[] asciiBytesArr)
-        {
-            int substrIndex = 0;
-            string tempStr = "";
-            return substrIndex;
-        }
-        */
 
         static void Main(string[] args)
         {
