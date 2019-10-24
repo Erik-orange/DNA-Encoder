@@ -5,13 +5,14 @@ For our purposes, these characters (in order) are: A, T, G, and C. We would like
 
 ## Getting Started
 
+// TODO
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. 
 See deployment for notes on how to deploy the project on a live system.
 
 ### Prerequisites
 
-* [.NET Framework 4.6.1 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net461)
-* Visual Studio 2017 Community Edition
+* [.NET Framework 4.6.1 Runtime] (https://dotnet.microsoft.com/download/dotnet-framework/net461)
+* [Visual Studio 2017 Community Edition] (https://visualstudio.microsoft.com/vs/older-downloads/)
 
 ### Running The Program
 
@@ -22,6 +23,7 @@ Click the `Start` button with the green arrow.
 
 ## Running the tests
 
+// TODO
 Explain how to run the automated tests for this system
 
 
@@ -31,13 +33,11 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+// TODO
 
 ## Contributing
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
+// TODO
 
 ## Author
 
